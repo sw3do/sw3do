@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A front-end developer from Turkey</h3>
 
-- 👯 I’m looking to collaborate on [https://animeelysium.com](https://animeelysium.com)
+- 👯 I’m looking to collaborate on [https://animely.net](https://animely.net)
 
 - 👨‍💻 All of my projects are available at [https://mert.lol](https://mert.lol)
 
