@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello%2C+I'm+sw3do!;🚀+Full+Stack+Developer;💡+Problem+Solver;🎯+Code+Enthusiast;📚+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=120&lines=👋+Hello%2C+I'm+sw3do!;🚀+Full+Stack+Developer;💡+Creative+Problem+Solver;🎯+Passionate+Code+Enthusiast;📚+Always+Learning+%26+Growing;✨+Building+Amazing+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,45 +17,45 @@
 ```javascript
 const sw3do = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "TypeScript", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
+    code: ["JavaScript", "Python", "TypeScript", "C#", "C++", "C"],
+    askMeAbout: ["web development", "technology", "app development", "gaming"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            js: ["React", "Vue.js", "Next.js", "Nuxt.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Sass", "Styled Components"]
         },
         backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+            js: ["Node.js", "Express.js", "Fastify", "NestJS"],
+            python: ["Django", "Flask", "FastAPI"],
+            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
         },
-        devOps: ["Docker", "AWS", "Nginx"],
-        tools: ["Git", "VS Code", "Postman"]
+        devOps: ["Docker", "AWS", "Nginx", "GitHub Actions"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() 🤫"
+    currentFocus: "Building scalable and innovative web applications",
+    funFact: "I turn coffee into code and bugs into features! ☕️→💻"
 };
 ```
 
 <br clear="both">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack & Skills
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Frontend
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxt,tailwind,sass,bootstrap,figma&theme=dark" />
 </p>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Backend
+### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Backend & Server
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,cs,dotnet,nginx&theme=dark" />
 </p>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Database & Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Database & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws,git,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws,githubactions,git,vscode,postman&theme=dark" />
 </p>
 
 </div>
@@ -122,16 +122,7 @@ const sw3do = {
 </tr>
 </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sw3do/quick.prisma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sw3do&repo=quick.prisma&theme=tokyonight&hide_border=true" alt="quick.prisma" />
-  </a>
-  <a href="https://github.com/sw3do/valorant-friend-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sw3do&repo=valorant-friend-manager&theme=tokyonight&hide_border=true" alt="valorant-friend-manager" />
-  </a>
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect With Me
 
@@ -142,7 +133,7 @@ const sw3do = {
   <a href="https://instagram.com/sw3doo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="mailto:sw3doo">
+  <a href="mailto:sw3doo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
   <a href="https://discord.com/users/1220783094613672011">
@@ -177,6 +168,23 @@ const sw3do = {
 </div>
 
 <div align="center">
-  <h3>💫 "Code is art, problem solving is passion!" 🚀</h3>
-  <p><i>Every line of code is the beginning of a new story...</i></p>
+  <h3>💫 "Code is poetry, innovation is my language!" 🚀</h3>
+  <p><i>✨ Transforming ideas into digital reality, one commit at a time ✨</i></p>
+  
+  <table align="center">
+  <tr>
+  <td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
+  <br><sub><b>Always Coding</b></sub>
+  </td>
+  <td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
+  <br><sub><b>Problem Solving</b></sub>
+  </td>
+  <td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40">
+  <br><sub><b>Learning</b></sub>
+  </td>
+  </tr>
+  </table>
 </div> 
