@@ -1,189 +1,79 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sw3do&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <h1>👋 Hi, I'm Sw3do</h1>
+  <p><i>Full Stack Developer | Problem Solver | Code Enthusiast</i></p>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&size=24&lines=👋+Hello,+I'm+sw3do!;🚀+Full+Stack+Developer;💡+Creative+Problem+Solver;🎯+Passionate+Code+Enthusiast;📚+Always+Learning+%26+Growing;✨+Building+Amazing+Things" alt="Typing SVG" />
-</div>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 💫 About Me
 
 ```javascript
 const sw3do = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "Python", "TypeScript", "C#", "C++", "C"],
-    askMeAbout: ["web development", "technology", "app development", "gaming"],
+    code: ["JavaScript", "Python", "TypeScript", "C++", "Rust"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Vue.js", "Next.js", "Nuxt.js"],
-            css: ["Tailwind CSS", "Bootstrap", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "Fastify", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
-        },
-        devOps: ["Docker", "AWS", "Nginx", "GitHub Actions"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
+        frontEnd: ["React", "Vue.js", "Next.js", "Nuxt.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express.js", "Flask", "FastAPI", "Rust"],
+        mobile: ["Flutter"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        tools: ["Docker", "AWS", "Git", "VS Code"]
     },
-    currentFocus: "Building scalable and innovative web applications",
-    funFact: "I turn coffee into code and bugs into features! ☕️→💻"
+    currentFocus: "Building scalable web applications"
 };
 ```
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack & Skills
+**Frontend**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<div align="center">
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxt,tailwind,sass,bootstrap,figma&theme=dark" />
-</p>
+**Database & Tools**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> Backend & Server
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,cs,dotnet,nginx&theme=dark" />
-</p>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Database & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,aws,githubactions,git,vscode,postman&theme=dark" />
-</p>
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sw3do&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sw3do&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sw3do&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sw3do&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sw3do&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sw3do&theme=tokyo-night&hide_border=true&custom_title=sw3do's%20GitHub%20Activity%20Graph" alt="Contribution Graph" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Focus Areas
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-<sub><b>Web Development</b></sub><br>
-<sub>Modern web applications</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-<sub><b>Mobile Development</b></sub><br>
-<sub>Cross-platform apps</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100"><br>
-<sub><b>AI & ML</b></sub><br>
-<sub>Artificial intelligence solutions</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-<sub><b>Cloud Computing</b></sub><br>
-<sub>Cloud technologies</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-<sub><b>Cybersecurity</b></sub><br>
-<sub>Security-focused development</sub>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
-<sub><b>Game Development</b></sub><br>
-<sub>Interactive experiences</sub>
-</td>
-</tr>
-</table>
-
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://x.com/sw3doo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/sw3doo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:sw3doo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1220783094613672011">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Daily Motivation
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316xqt5xuedodu6nsbxwyhnqo5wy&count=1&unique=true" alt="Spotify Recently Played" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sw3do&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sw3do?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sw3do?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <h3>💫 "Code is poetry, innovation is my language!" 🚀</h3>
-  <p><i>✨ Transforming ideas into digital reality, one commit at a time ✨</i></p>
-  
-  <table align="center">
-  <tr>
-  <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
-  <br><sub><b>Always Coding</b></sub>
-  </td>
-  <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
-  <br><sub><b>Problem Solving</b></sub>
-  </td>
-  <td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40">
-  <br><sub><b>Learning</b></sub>
-  </td>
-  </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=sw3do&color=blueviolet&style=flat-square" />
 </div> 
